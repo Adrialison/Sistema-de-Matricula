@@ -14,7 +14,7 @@
                 <th>ID</th>
                 <th>Nombre</th>
                 <th>Apellido</th>
-                <th>Fecha de Nacimiento</th>
+                <th>Fecha de Nacimiento0</th>
                 <th>Correo</th>
                 <th>Teléfono</th>
                 <th>Acciones</th>
